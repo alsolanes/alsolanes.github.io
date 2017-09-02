@@ -1,7 +1,7 @@
-#Welcome
+# Welcome
 Hey! I'm Aleix Solanes, a Catalan neuroimaging researcher and software developer.
 
-#Projects
+# Projects
 ### Text based tools for visualization and geolocation of news
 Find the places where a text talks about:
 [Text based tools for visualization and geolocation of news - Final Degree Project](TFG)
