@@ -1,0 +1,8 @@
+title: Aleix Solanes
+description: Main personal Page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
